@@ -1,0 +1,25 @@
+The anagram variants for string dear are: 
+ader
+adre
+aedr
+aerd
+arde
+ared
+daer
+dare
+dear
+dera
+drae
+drea
+eadr
+eard
+edar
+edra
+erad
+erda
+rade
+raed
+rdae
+rdea
+read
+reda
