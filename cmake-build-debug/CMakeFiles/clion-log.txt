@@ -1,0 +1,1 @@
+MinGW not found at: C:\Users\Adil\Documents\KBTU\Programming principles\C++\mingw64tdm Configure
